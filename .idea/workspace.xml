@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f7fcaf8-5788-451b-93fc-0b41d6f4085b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso Java1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NotasProyecto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitivoCaracteres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Primitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrimitivosBoolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaNumerico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemasPrimitivos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VariablesPrimitivas.java" afterDir="false" />
+    <list default="true" id="9f7fcaf8-5788-451b-93fc-0b41d6f4085b" name="Changes" comment="curso java">
+      <change afterPath="$PROJECT_DIR$/src/ConversionDeTipos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioMaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Facturas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaNumericoEntradaScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SistemaNumerico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SistemaNumerico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,40 +38,48 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConversionDeTipos.executor": "Run",
+    "Application.EjercicioMaria.executor": "Run",
+    "Application.Facturas.executor": "Run",
     "Application.HolaMundo.executor": "Run",
     "Application.NotasProyecto1.executor": "Run",
     "Application.Primitivos.executor": "Run",
     "Application.SistemaNumerico.executor": "Run",
+    "Application.SistemaNumericoEntradaScanner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/aleja_s3fxgqk/OneDrive/JAVA/Curso Java1/src",
-    "onboarding.tips.debug.path": "C:/Users/aleja_s3fxgqk/OneDrive/JAVA/Curso Java1/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/aleja_s3fxgqk/OneDrive/JAVA/Curso Java1/src/Main.java",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\aleja_s3fxgqk\OneDrive\JAVA\Curso Java1\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SistemaNumerico">
-    <configuration name="HolaMundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HolaMundo" />
+  <component name="RunManager" selected="Application.Facturas">
+    <configuration name="ConversionDeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversionDeTipos" />
       <module name="Curso Java1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotasProyecto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NotasProyecto1" />
+    <configuration name="EjercicioMaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EjercicioMaria" />
       <module name="Curso Java1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Primitivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Primitivos" />
+    <configuration name="Facturas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Facturas" />
       <module name="Curso Java1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,12 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SistemaNumericoEntradaScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SistemaNumericoEntradaScanner" />
+      <module name="Curso Java1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Facturas" />
+        <item itemvalue="Application.EjercicioMaria" />
+        <item itemvalue="Application.ConversionDeTipos" />
+        <item itemvalue="Application.SistemaNumericoEntradaScanner" />
         <item itemvalue="Application.SistemaNumerico" />
-        <item itemvalue="Application.Primitivos" />
-        <item itemvalue="Application.NotasProyecto1" />
-        <item itemvalue="Application.HolaMundo" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +118,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718747157441</updated>
     </task>
+    <task id="LOCAL-00001" summary="curso java">
+      <option name="closed" value="true" />
+      <created>1719952134945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719952134945</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="curso java" />
+    <option name="LAST_COMMIT_MESSAGE" value="curso java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
